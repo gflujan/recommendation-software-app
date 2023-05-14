@@ -12,6 +12,6 @@ It's a straightforward app in that it just takes in user input and then filters 
 
 # Screenshots 
 
-![recommendations-01](/Users/gabriel/Developer/repos-r2g2/5_WRK/codecademy/recommendation-software-app/recommendations-01.png)
+![recommendations-01](./recommendations-01.png)
 
-![recommendations-02](/Users/gabriel/Developer/repos-r2g2/5_WRK/codecademy/recommendation-software-app/recommendations-02.png)
+![recommendations-02](./recommendations-02.png)
